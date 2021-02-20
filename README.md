@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Python 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | Express | ReactJS | EJS | RestAPI| Authentication| OAuth 
