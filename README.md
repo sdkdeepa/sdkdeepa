@@ -3,24 +3,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <h2> Hello there! I am Deepa.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working as a Software Test professional 
-- 🤔 &nbsp; I love exploring new technologies 
+- 🤩 &nbsp; I love exploring new technologies 
 - 🎓 &nbsp; Self taught full stack web developer
 - 💼 &nbsp; Currently open for freelancing
 - 🌱 &nbsp; Knowledge of AWS services 
+- 📫 &nbsp; deepa94086@gmail.com
 - ⚡ &nbsp; Fun fact: I was once a PhD candidate doing research for 2.5 years
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
