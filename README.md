@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 🤩 &nbsp; I love exploring new technologies 
 - 🎓 &nbsp; Self taught full stack web developer
 - 💼 &nbsp; Currently open for freelancing
-- 🌱 &nbsp; Knowledge of AWS services 
-- 📫 &nbsp; deepa94086@gmail.com
-- ⚡ &nbsp; Fun fact: I was once a PhD candidate doing research for 2.5 years
+- 🌱 &nbsp; Learning AWS and Devops
+
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
