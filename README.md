@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🚓 &nbsp; Jenkins, Travis CI
 - 🔧 &nbsp; Git | Jest | 
 - 🌱 &nbsp; Python, TypeScript
--  
+
 <!-- - 🖥 &nbsp; -->
 
 <br/>
