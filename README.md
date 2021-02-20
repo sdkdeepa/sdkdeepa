@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working as a Software Test professional 
-- 🤔 &nbsp; I love xxploring new technologies 
+- 🤔 &nbsp; I love exploring new technologies 
 - 🎓 &nbsp; Self taught full stack web developer
 - 💼 &nbsp; Currently open for freelancing
 - 🌱 &nbsp; Knowledge of AWS services 
