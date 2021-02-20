@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <h2> Hello there 👋 ! I am Deepa.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👩‍💻 About Me </h3>
 
 - 🔭 I’m currently working as a Software Test professional 
 - 🤩 &nbsp; I love exploring new technologies 
