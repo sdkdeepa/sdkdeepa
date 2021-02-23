@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤩 &nbsp; I love exploring new technologies 
 - 🎓 &nbsp; Self taught full stack web developer
 - 💼 &nbsp; Currently open for freelancing
-- 🌱 &nbsp; Learning AWS and Devops
+- 🌱 &nbsp; AWS and Devops
 
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB |Mongoose.
 - 🚓 &nbsp; Jenkins, Travis CI
 - 🔧 &nbsp; Git | Jest | 
-- 🌱 &nbsp; Python, TypeScript
+- 🌱 &nbsp; AWS services, Python, TypeScript
 
 <!-- - 🖥 &nbsp; -->
 
