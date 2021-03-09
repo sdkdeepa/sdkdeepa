@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | Express | ReactJS | EJS | RestAPI | Authentication| OAuth 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | React | Bootstrap | Node.js | Express | ReactJS | EJS | RestAPI | Authentication| OAuth 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB |Mongoose.
 - 🚓 &nbsp; Jenkins, Travis CI
 - 🔧 &nbsp; Git | Jest | 
