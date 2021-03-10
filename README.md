@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | ReactJS | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas |
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose |
-- 🚓 &nbsp; Jenkins, Travis CI
+- 🚓 &nbsp; Jenkins, Travis CI 
 - 🔧 &nbsp; Git | Jest | 
 - 🌱 &nbsp; AWS services, Python, TypeScript
 
