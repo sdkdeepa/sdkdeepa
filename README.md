@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Test professional 
 - 🤩 &nbsp; I love exploring new technologies 
 - 🎓 &nbsp; Self taught full stack web developer
-- 💼 &nbsp; Currently open for freelancing (5-10hrs / week)
 - 🌱 &nbsp; AWS and Devops
 
 <!--
