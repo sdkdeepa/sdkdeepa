@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -->
-<h2> Hello there 👋 ! I am Deepa.</h2>
+<h2> Hi there 👋 ! I am Deepa.</h2>
 
 <h3> 👩‍💻 About Me </h3>
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | React| Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
 - 🚓 &nbsp; Docker| Jenkins | Travis CI 
-- 🔧 &nbsp; Git | Jest 
+- 🔧 &nbsp; Git | Jest | Mocha | Chai
 - 🌱 &nbsp; AWS services | Python | TypeScript
 
 <!-- - 🖥 &nbsp; -->
