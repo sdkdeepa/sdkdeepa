@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
 - 🚓 &nbsp; Docker| Jenkins | Travis CI 
-- 🔧 &nbsp; Jest | Mocha | Chai
-- 🌱 &nbsp; AWS services | TypeScript
+- 🔧 &nbsp; Jest | Mocha | Chai | Jasmine
 
 <!-- - 🖥 &nbsp; -->
 
