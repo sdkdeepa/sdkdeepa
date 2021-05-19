@@ -8,21 +8,21 @@ Here are some ideas to get you started:
 
 <h3> 👩‍💻 About Me </h3>
 
-- 🔭 I’m currently working as a Software Test professional 
-- 🤩 &nbsp; I love exploring new technologies 
+- 🔭 Experienced Software Test professional 
+- 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 🎓 &nbsp; Self taught full stack web developer
-- 🌱 &nbsp; AWS and Devops
+- 🌱 &nbsp; AWS, Google Cloud
 
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | React| Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
 - 🚓 &nbsp; Docker| Jenkins | Travis CI 
-- 🔧 &nbsp; Git | Jest | Mocha | Chai
-- 🌱 &nbsp; AWS services | Python | TypeScript
+- 🔧 &nbsp; Jest | Mocha | Chai
+- 🌱 &nbsp; AWS services | TypeScript
 
 <!-- - 🖥 &nbsp; -->
 
