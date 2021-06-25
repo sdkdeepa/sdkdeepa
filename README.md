@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 Experienced Software Test professional 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 🎓 &nbsp; Self taught full stack web developer
-- 🌱 &nbsp; AWS, Google Cloud
+- 🌱 &nbsp; Python, AWS, Google Cloud
 
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p>
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.deepasubramanian.dev//"><img alt="Website" src="https://img.shields.io/badge/Website-www.deepasubramanian.dev-red?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/deepa94086"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-deepa94086-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>-->
 </p>
 
 
