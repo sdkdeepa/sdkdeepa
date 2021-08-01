@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -->
-### Hey 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
+# Hey 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
 
 <h2> 👩‍💻 About Me </h2>
 
