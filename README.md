@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.deepasubramanian.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.deepasubramanian.dev-red?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/deepa94086"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-deepa94086-blue?style=flat-square&logo=linkedin"></a>
-  ![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa)
+  ![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdkdeepa)
 </p>
 
 
