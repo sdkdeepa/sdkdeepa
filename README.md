@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 
 -->
-<h2> Hi there 👋 ! I am Deepa.</h2>
+### Hey 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
 
-<h3> 👩‍💻 About Me </h3>
+<h2> 👩‍💻 About Me </h2>
 
 - 🔭 Experienced Software Test professional 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
@@ -31,10 +31,18 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p>
-<a href="https://www.deepasubramanian.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.deepasubramanian.dev-red?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/deepa94086"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-deepa94086-blue?style=flat-square&logo=linkedin"></a>
-</p>
-![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdkdeepa)
+<br/>
+
+<a href="https://twitter.com/sdk_deepa">
+  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sdkdeepa/">
+  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
+
+<br />
+
 
 
