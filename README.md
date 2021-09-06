@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 # Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
-
+<br/>
 <h2> 👩‍💻 About Me </h2>
 
 - 🔭 Experienced Software Test professional 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
+<br/>
 
 <h2>🛠 Tech Stack</h2>
 
@@ -26,10 +27,6 @@ Here are some ideas to get you started:
 <!-- - 🖥 &nbsp; -->
 
 <br/>
-
-### **Github Monthly Tracking:**
-![Deepa's github activity graph](https://activity-graph.herokuapp.com/graph?username=sdkdeepa&theme=react-dark)
-
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
