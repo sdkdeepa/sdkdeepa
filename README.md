@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <br/>
 <h2> 👩‍💻 About Me </h2>
 
-- 🔭 Experienced Software Test professional 
+- 🔭 Experienced Software Developement In Test professional 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 🎓 &nbsp; Self taught full stack web developer
 - 🌱 &nbsp; Python, AWS, Google Cloud
