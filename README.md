@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I loved to share my knowledge to the community and here are the events I spoken at on few virtual meetups
+I loved to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 - Google Developer Student Club 
    - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
 - React Houston
