@@ -57,6 +57,24 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+I loved to share my knowledge to the community and here are the events I spoken at on few virtual meetups
+- Google Developer Student Club 
+   - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
+- React Houston
+   - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
+- Fundamental JS 
+   - Creational design pattern in JavaScript - https://www.meetup.com/sandiegojs/events/283090494
+   - Getting started with more JavaScript with essential ES6 features - https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/
+   - Getting started with JavaScript - https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/
+- Woman Who Code Frontend 
+   - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
+- React Chicago 
+   - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
+- Angular KC 
+   - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
+<br />
+<br />
+
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
 
 <h3> 🤝🏻 Connect with Me </h3>
