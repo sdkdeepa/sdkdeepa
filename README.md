@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h1> Side Projects </h3>
+<h1> Side Projects </h1>
 
 2022
 - Book listing - Jan 2022 https://reactbooklist-sdkdeepa.netlify.app/
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<h1> Speaker at events </h1>
 
 I loved to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 - Google Developer Student Club 
