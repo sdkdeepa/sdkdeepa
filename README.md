@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <!-- - 🖥 &nbsp; -->
 
 <br/>
-<br/>
-
 <h1> Side Projects </h1>
 
 2022
@@ -54,7 +52,6 @@ Here are some ideas to get you started:
 - July2020 
      Dog Dating:  https://dogs-datings.netlify.app/
 
-<br />
 <br />
 <h1> Speaker at events </h1>
 
