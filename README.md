@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <h1> Side Projects </h1>
 
 2022
+- Github Pagination - March 2022 
 - Book listing - Jan 2022 https://reactbooklist-sdkdeepa.netlify.app/
 - Notes app - Jan2022 https://reactnotesapp-sdkdeepa.netlify.app/
 
