@@ -1,21 +1,17 @@
 <!--
 **sdkdeepa/Deepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 -->
 # Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
-<br/>
+
 <h2> 👩‍💻 About Me </h2>
 
 - 🔭 Experienced Software Developement In Test professional 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 🎓 &nbsp; Self taught full stack web developer
 - 🌱 &nbsp; Python, AWS, Google Cloud
-
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
-<br/>
 
 <h2>🛠 Tech Stack</h2>
 
@@ -26,8 +22,7 @@ Here are some ideas to get you started:
 
 <!-- - 🖥 &nbsp; -->
 
-<br/>
-<h1> Side Projects </h1>
+<h1> Hobby Projects </h1>
 
 2022
 - Github Pagination - March 2022 
@@ -52,26 +47,6 @@ Here are some ideas to get you started:
      Newsletter signup application  https://shrouded-river-17694.herokuapp.com/
 - July2020 
      Dog Dating:  https://dogs-datings.netlify.app/
-
-<br />
-
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br/>
-
-<a href="https://twitter.com/sdk_deepa">
-  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sdkdeepa/">
-  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
-
-
 <h1> Speaker at events </h1>
 
 I loved to share my knowledge to the community and here are the events I have spoken at few virtual meetups
@@ -90,4 +65,18 @@ I loved to share my knowledge to the community and here are the events I have sp
 - Angular KC 
    - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<a href="https://twitter.com/sdk_deepa">
+  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sdkdeepa/">
+  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
+
 <br />
