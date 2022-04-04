@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
-- 🚓 &nbsp; Docker| Jenkins | Travis CI 
+- 🚓 &nbsp; Docker | Jenkins | Travis CI 
 - 🔧 &nbsp; Jest | Mocha | Chai | Jasmine
 
 <!-- - 🖥 &nbsp; -->
 
 <h1> Hobby Projects </h1>
-
 2022
 - Github Pagination - March 2022 
 - Book listing - Jan 2022 https://reactbooklist-sdkdeepa.netlify.app/
@@ -46,6 +45,10 @@ Here are some ideas to get you started:
      Newsletter signup application  https://shrouded-river-17694.herokuapp.com/
 - July2020 
      Dog Dating:  https://dogs-datings.netlify.app/
+ <br />
+<h1> Blogger at <a href="https://medium.com/@sdkdeepa">Medium</a> </h1>
+ Started blogging on JavaScript Series on Data structures, TypeScript 101, Puppeteer chrome automation tool etc.
+<br />
 <h1> Speaker at events </h1>
 
 I loved to share my knowledge to the community and here are the events I have spoken at few virtual meetups
@@ -76,5 +79,5 @@ I loved to share my knowledge to the community and here are the events I have sp
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
-
 <br />
+
