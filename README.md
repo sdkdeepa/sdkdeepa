@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 <h2> 👩‍💻 About Me </h2>
 
-- 🔭 Experienced Software Developement In Test professional 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 🎓 &nbsp; Self taught full stack web developer
 - 🌱 &nbsp; Python, AWS, Google Cloud
@@ -69,7 +68,6 @@ I loved to share my knowledge to the community and here are the events I have sp
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
 
 <h3> 🤝🏻 Connect with Me </h3>
-
 <a href="https://twitter.com/sdk_deepa">
   <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
