@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br />
 <h1> Speaker at events </h1>
 
-I loved to share my knowledge to the community and here are the events I have spoken at few virtual meetups
+I love to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 - Google Developer Student Club 
    - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
 - React Houston
