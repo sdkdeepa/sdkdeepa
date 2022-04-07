@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 <!-- - 🖥 &nbsp; -->
 
 <h1> Hobby Projects </h1>
+
 2022
-- Github Pagination - March 2022 
-- Book listing - Jan 2022 https://reactbooklist-sdkdeepa.netlify.app/
-- Notes app - Jan2022 https://reactnotesapp-sdkdeepa.netlify.app/
+ - Github Pagination - March 2022 
+ - Book listing - Jan 2022 https://reactbooklist-sdkdeepa.netlify.app/
+ - Notes app - Jan2022 https://reactnotesapp-sdkdeepa.netlify.app/
 
 2021
 - Travel Planner App - Mar 2021 - https://deepa-travplan.herokuapp.com/
