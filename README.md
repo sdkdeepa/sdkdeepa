@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 
 I love to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 
+- Node.JS Geekle Global Summit 
+   - "How to build a Fast and Scalable Website Using Node.js" - https://www.youtube.com/watch?v=RYpivX9P8-I
+-  Google Developer Communities North America - International Women's Day GDG 
+   - "Pulling the strings of Puppeteer for web automation" https://www.youtube.com/watch?v=oaFP1GoVLCE
 - Google Developer Student Club 
    - How to get started with Angular and Firebase - https://www.youtube.com/watch?v=pP_ldsQe7oQ
    -  Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
