@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- - 🖥 &nbsp; -->
 
-<h1> Hobby Projects </h1>
+<h1> Projects </h1>
 
 2022
  - Github Pagination - March 2022 
