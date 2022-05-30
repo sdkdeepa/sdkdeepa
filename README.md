@@ -54,24 +54,33 @@ Here are some ideas to get you started:
 
 I love to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 
-- Node.JS Geekle Global Summit 
+Upcoming:
+
+[Dos and Don’ts of GraphQL and REST API Services](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/)
+
+<hr>
+
+1. [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
    - How to build a Fast and Scalable Website Using Node.js - https://www.youtube.com/watch?v=RYpivX9P8-I
--  Google Developer Communities North America - International Women's Day GDG 
+2. [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
    - Pulling the strings of Puppeteer for web automation - https://www.youtube.com/watch?v=oaFP1GoVLCE
-- Google Developer Student Club 
+3. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
    - How to get started with Angular and Firebase - https://www.youtube.com/watch?v=pP_ldsQe7oQ
-   -  Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
-- React Houston
+4. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
+   - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
+5. [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
    - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
-- Fundamental JS 
-   - Creational design pattern in JavaScript - https://www.meetup.com/sandiegojs/events/283090494
-   - Getting started with more JavaScript with essential ES6 features - https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/
-   - Getting started with JavaScript - https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/
-- Woman Who Code Frontend 
+6. [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
+   - Creational design pattern in JavaScript 
+7. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
+   - Getting started with more JavaScript with essential ES6 features 
+8. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
+   - Getting started with JavaScript
+9. Woman Who Code Frontend 
    - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
-- React Chicago 
+10. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
    - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
-- Angular KC 
+11. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
    - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
 
