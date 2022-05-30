@@ -79,9 +79,9 @@ Upcoming:
 9. Woman Who Code Frontend 
    - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
 10. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
-   - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
+    - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
 11. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
-   - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
+    - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
