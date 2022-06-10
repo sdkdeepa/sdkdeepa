@@ -56,31 +56,33 @@ I love to share my knowledge to the community and here are the events I have spo
 
 Upcoming:
 
-[Dos and Don’ts of GraphQL and REST API Services](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/)
+TBD
 
 <hr>
 
-1. [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
+1. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
+   - Dos and Don’ts of GraphQL and REST API Services - https://www.youtube.com/watch?v=dyGl1HbRV2E
+2. [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
    - How to build a Fast and Scalable Website Using Node.js - https://www.youtube.com/watch?v=RYpivX9P8-I
-2. [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
+3. [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
    - Pulling the strings of Puppeteer for web automation - https://www.youtube.com/watch?v=oaFP1GoVLCE
-3. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
+4. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
    - How to get started with Angular and Firebase - https://www.youtube.com/watch?v=pP_ldsQe7oQ
-4. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
+5. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
    - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
-5. [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
+6. [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
    - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
-6. [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
+7. [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
    - Creational design pattern in JavaScript 
-7. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
+8. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
    - Getting started with more JavaScript with essential ES6 features 
-8. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
+9. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
    - Getting started with JavaScript
-9. Woman Who Code Frontend 
+10. Woman Who Code Frontend 
    - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
-10. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
+11. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
     - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
-11. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
+12. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
 
