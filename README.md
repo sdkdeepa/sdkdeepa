@@ -79,7 +79,7 @@ TBD
 9. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
    - Getting started with JavaScript
 10. Woman Who Code Frontend 
-   - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
+    - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
 11. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
     - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
 12. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
