@@ -56,8 +56,8 @@ I love to share my knowledge to the community and here are the events I have spo
 
 Upcoming:
 
-TBD
-
+- International JavaScript New York Conference 
+- Geekle JavaScript Summit 
 <hr>
 
 1. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
