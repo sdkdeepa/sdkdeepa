@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 🎓 &nbsp; Self taught full stack web developer
-- 🌱 &nbsp; Python, AWS, Google Cloud
+
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
 - 🚓 &nbsp; Docker | Jenkins | Travis CI 
 - 🔧 &nbsp; Jest | Mocha | Chai | Jasmine
+- 🌱 &nbsp; Python, AWS, Google Cloud
 
 <!-- - 🖥 &nbsp; -->
 
