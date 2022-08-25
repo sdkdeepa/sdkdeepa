@@ -57,33 +57,36 @@ I love to share my knowledge to the community and here are the events I have spo
 Upcoming:
 
 - React Global Summit - https://events.geekle.us/react3/
+- GDSC - TBD 
 - International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
 - JavaScript Global Summit - https://events.geekle.us/js/
 <hr>
 
-1. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
+1. June 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
    - Dos and Don’ts of GraphQL and REST API Services - https://www.youtube.com/watch?v=dyGl1HbRV2E
-2. [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
+2. May 2022 - [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
    - How to build a Fast and Scalable Website Using Node.js - https://www.youtube.com/watch?v=RYpivX9P8-I
-3. [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
+3. May 2022 - [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
    - Pulling the strings of Puppeteer for web automation - https://www.youtube.com/watch?v=oaFP1GoVLCE
-4. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
+4. April 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
    - How to get started with Angular and Firebase - https://www.youtube.com/watch?v=pP_ldsQe7oQ
-5. [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
+5. March 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
    - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
-6. [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
+6. March 2022 - [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
    - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
-7. [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
+7. Jan 2022 - [React Chicago] (https://www.meetup.com/React-Chicago/events/282659282/)
+   - React Components, States and Hooks
+8. Jan 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
    - Creational design pattern in JavaScript 
-8. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
+9. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
    - Getting started with more JavaScript with essential ES6 features 
-9. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
+10. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
    - Getting started with JavaScript
-10. Woman Who Code Frontend 
+11. Woman Who Code Frontend 
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
-11. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
+12. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
     - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
-12. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
+13. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
 
