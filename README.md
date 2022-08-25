@@ -54,12 +54,13 @@ Here are some ideas to get you started:
 
 I love to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 
-Upcoming:
+<h3> Upcoming: </h3>
 
-- React Global Summit - https://events.geekle.us/react3/
-- GDSC - TBD 
-- International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
-- JavaScript Global Summit - https://events.geekle.us/js/
+1. November 2022 - React Global Summit - https://events.geekle.us/react3/
+2. October 2022 - GDSC - TBD 
+3. Sep 2022 - International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
+4. Sep 2022 - JavaScript Global Summit - https://events.geekle.us/js/
+
 <hr>
 
 1. June 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
@@ -74,19 +75,17 @@ Upcoming:
    - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
 6. March 2022 - [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
    - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
-7. Jan 2022 - [React Chicago] (https://www.meetup.com/React-Chicago/events/282659282/)
-   - React Components, States and Hooks
+7. Jan 2022 - [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
+    - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
 8. Jan 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
    - Creational design pattern in JavaScript 
-9. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
+9. Dec 2021 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
    - Getting started with more JavaScript with essential ES6 features 
 10. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
-   - Getting started with JavaScript
-11. Woman Who Code Frontend 
+    - Getting started with JavaScript
+11. Dec 2021 - Woman Who Code Frontend 
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
-12. [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
-    - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
-13. [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
+12. Sep 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
 
