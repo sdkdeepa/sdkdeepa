@@ -58,9 +58,11 @@ I love to share my knowledge to the community and here are the events I have spo
 <h3> Upcoming: </h3>
 
 1. November 2022 - React Global Summit - https://events.geekle.us/react3/
-2. October 2022 - GDSC - TBD 
-3. Sep 2022 - International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
-4. Sep 2022 - JavaScript Global Summit - https://events.geekle.us/js/
+2. November 2022 - GDSC - TBD 
+3. October WWCode - Getting Started with PWA.
+4. October 2022 - Angular Nation - Wanna learn Angular? 
+5. Sep 2022 - International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
+6. Sep 2022 - JavaScript Global Summit - https://events.geekle.us/js/
 
 <hr>
 
