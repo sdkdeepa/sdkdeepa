@@ -58,37 +58,41 @@ I love to share my knowledge to the community and here are the events I have spo
 <h3> Upcoming: </h3>
 
 1. November 2022 - React Global Summit. Event link: https://events.geekle.us/react3/
-2. November 2022 - GDSC - TBD 
-3. October 2022 - WWCode - Getting Started with PWA. Event link: https://us02web.zoom.us/webinar/register/WN_rA2LKmwLRaCg5gJGU49XKg
-4. October 2022 - Angular Nation - Wanna learn Angular?  
-5. Sep 2022 - International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
-6. Sep 2022 - JavaScript Global Summit - https://events.geekle.us/js/
-
+2. Dec 2022 - Angular Nation - Wanna learn Angular?  
 <hr>
 
-1. June 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
+#2022
+
+1. October 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/286559765/)-Overview of PWA
+2. October 2022 - WWCode - Getting Started with PWA. Event link: https://us02web.zoom.us/webinar/register/WN_rA2LKmwLRaCg5gJGU49XKg
+3. Sep 2022 - JavaScript Global Summit - https://www.youtube.com/watch?v=UzCgGvtoJfo&feature=youtu.be
+4. Sep 2022 - International JavaScript New York Conference - https://javascript-conference.com/speaker/deepa-subramanian/
+5. June 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-dos-and-donts-of-graphql-and-rest-api-services/) 
    - Dos and Don’ts of GraphQL and REST API Services - https://www.youtube.com/watch?v=dyGl1HbRV2E
-2. May 2022 - [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
+6. May 2022 - [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
    - How to build a Fast and Scalable Website Using Node.js - https://www.youtube.com/watch?v=RYpivX9P8-I
-3. May 2022 - [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
+7. May 2022 - [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
    - Pulling the strings of Puppeteer for web automation - https://www.youtube.com/watch?v=oaFP1GoVLCE
-4. April 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
+8. April 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
    - How to get started with Angular and Firebase - https://www.youtube.com/watch?v=pP_ldsQe7oQ
-5. March 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
+9. March 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
    - Data Structures in JS -  https://youtu.be/dAKay0VwFmc 
-6. March 2022 - [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
-   - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
-7. Jan 2022 - [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
+10. March 2022 - [React Houston](https://www.meetup.com/Houston-React-Js-Group/events/283828748/)
+    - Redux, MobX and What's Next in Managing State - https://www.youtube.com/watch?v=iOa5ff_ga3o
+11. Jan 2022 - [React Chicago](https://www.meetup.com/React-Chicago/events/282659282/)
     - React Components, States and Hooks - https://www.youtube.com/watch?v=0S9nZ7moLnU
-8. Jan 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
-   - Creational design pattern in JavaScript 
-9. Dec 2021 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
+12. Jan 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
+    - Creational design pattern in JavaScript 
+
+#2021
+
+1. Dec 2021 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
    - Getting started with more JavaScript with essential ES6 features 
-10. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
+2. [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccnbkc/)
     - Getting started with JavaScript
-11. Dec 2021 - Woman Who Code Frontend 
+3. Dec 2021 - Woman Who Code Frontend 
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
-12. Sep 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
+4. Sep 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
 <br />
 
