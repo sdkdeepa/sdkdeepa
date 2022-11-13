@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 <h2> 👩‍💻 About Me </h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
+- 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
 - 🎓 &nbsp; Self taught full stack web developer
 
 <!--
