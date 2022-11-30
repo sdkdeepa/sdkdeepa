@@ -50,7 +50,7 @@ I love to share my knowledge to the community and here are the events I have spo
 7. May 2022 - [Node.JS Geekle Global Summit](https://events.geekle.us/nodejs/) 
    - How to build a Fast and Scalable Website Using Node.js - https://www.youtube.com/watch?v=RYpivX9P8-I
 8. May 2022 - [Google Developer Communities North America - International Women's Day GDG](https://rsvp.withgoogle.com/events/iwd-northamerica)
-   - Pulling the strings of Puppeteer for web automation - https://www.youtube.com/watch?v=oaFP1GoVLCE
+   - Pulling the strings of Puppeteer for web automation - https://www.youtube.com/watch?v=oRx6SebCmd4
 9. April 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-how-to-get-started-with-angular-and-firebase-online-event/)
    - How to get started with Angular and Firebase - https://www.youtube.com/watch?v=pP_ldsQe7oQ
 10. March 2022 - [Google Developer Student Club](https://gdsc.community.dev/events/details/developer-student-clubs-conestoga-college-waterloo-campus-presents-js-data-structures-online-event/)
