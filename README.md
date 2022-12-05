@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <h1> 🎙️ Speaker at events </h1>
 
-I love to share my knowledge to the community and here are the events I have spoken at few virtual meetups
+I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
-<h3> Upcoming: </h3>
+<h3> Upcoming speakng engagements: </h3>
 
 1. Dec 2022 - Angular Nation - Wanna learn Angular?  
 2. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!"
@@ -76,7 +76,7 @@ I love to share my knowledge to the community and here are the events I have spo
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
 
-<h1> <a href="https://www.youtube.com/channel/UCGSlhV99QVNdxmaI6obNz9Q/"> YouTube Channel</a></h1> 
+<h1> 🎥 <a href="https://www.youtube.com/channel/UCGSlhV99QVNdxmaI6obNz9Q/"> YouTube Channel</a></h1> 
 Some of my talk videos have been uploaded in my channel. Please consider subscribing! 
 
 <h1> Projects </h1>
