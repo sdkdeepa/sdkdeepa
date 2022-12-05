@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!-- - 🖥 &nbsp; -->
 
 
-<h1> Blogger at <a href="https://medium.com/@sdkdeepa">Medium</a> </h1>
+<h1> ✍🏽 Blogger at <a href="https://medium.com/@sdkdeepa">Medium</a> </h1>
  Started blogging on PWA, Project Fugu, Chromium browser, JavaScript Series on Data structures, TypeScript 101, Puppeteer chrome automation tool etc.
 <br />
 
-<h1> Speaker at events </h1>
+<h1> 🎙️ Speaker at events </h1>
 
 I love to share my knowledge to the community and here are the events I have spoken at few virtual meetups
 
