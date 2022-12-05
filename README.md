@@ -39,7 +39,7 @@ I love to share my knowledge to the community and here are the events I have spo
 3. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S"
 <hr>
 
-#2022
+# 2022
 1. November 2022 - React Global Summit. Event link: https://events.geekle.us/react3/
 2. October 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/286559765/)-Overview of PWA
 3. October 2022 - WWCode - Getting Started with PWA. Event link: https://us02web.zoom.us/webinar/register/WN_rA2LKmwLRaCg5gJGU49XKg
@@ -62,7 +62,7 @@ I love to share my knowledge to the community and here are the events I have spo
 13. Jan 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/283090494)
     - Creational design pattern in JavaScript 
 
-#2021
+# 2021
 
 1. Dec 2021 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
    - Getting started with more JavaScript with essential ES6 features 
