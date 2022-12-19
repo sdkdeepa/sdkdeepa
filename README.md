@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 # Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
-<h2> 👩‍💻 About Me </h2>
+<h2> 👩🏽‍💻 About Me </h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
