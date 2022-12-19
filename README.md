@@ -3,12 +3,12 @@
 Here are some ideas to get you started:
 -->
 # Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
-
 <h2> 👩‍💻 About Me </h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
 - 🎓 &nbsp; Self taught full stack web developer
+- 👫👩🏻‍🤝‍👩🏽👱🏽👨🏻‍🦱👩🏻🧑🏽‍🦱👩🏾‍🦱 - Community builder
 
 <!--
 - ✍️ &nbsp; Full stack development and artist /painter as hobbies/side hustles.-->
@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Python, AWS, Google Cloud
 
 <!-- - 🖥 &nbsp; -->
-
-
-<h1> ✍🏽 Blogger at <a href="https://medium.com/@sdkdeepa">Medium</a> </h1>
- Started blogging on PWA, Project Fugu, Chromium browser, JavaScript Series on Data structures, TypeScript 101, Puppeteer chrome automation tool etc.
-<br />
-
+<hr>
 <h1> 🎙️ Speaker at events </h1>
 
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
@@ -36,7 +31,6 @@ I love to share my knowledge to the community and here are the events I have spo
 
 1. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!"
 2. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S"
-<hr>
 
 # 2022
 1. Dec 2022 - Angular Nation - Wanna learn Angular? 
@@ -63,7 +57,6 @@ I love to share my knowledge to the community and here are the events I have spo
     - Creational design pattern in JavaScript 
 15. Google NAConnect - Shared about my first in person conference experience.(https://www.linkedin.com/feed/update/urn:li:activity:6994864533383106560/)
 
-
 # 2021
 
 1. Dec 2021 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
@@ -74,14 +67,21 @@ I love to share my knowledge to the community and here are the events I have spo
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
 4. August 10, 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
+<hr>
+
+<h1> ✍🏽 Blogger at <a href="https://medium.com/@sdkdeepa">Medium</a> </h1>
+ Started blogging on PWA, Project Fugu, Chromium browser, JavaScript Series on Data structures, TypeScript 101, Puppeteer chrome automation tool etc.
 <br />
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
-
+<hr>
 <h1> 🎥 <a href="https://www.youtube.com/channel/UCGSlhV99QVNdxmaI6obNz9Q/"> YouTube Channel</a></h1> 
 Some of my talk videos have been uploaded in my channel. Please consider subscribing! 
+<hr>
 
-<h1> Projects </h1>
+<h1> 🎟️ <a href="https://gdg.community.dev/gdg-san-jose/"> Organizer at Google Developer Group San Jose </a></h1> 
+I have been volunteering from 2021 in this tech community and have been organizing various tech events. Please join this tech community! 
+<hr>
+
+<h2> Projects </h2>
 
 2022
  - Github Pagination - March 2022 
@@ -107,6 +107,7 @@ Some of my talk videos have been uploaded in my channel. Please consider subscri
 - July2020 
      Dog Dating:  https://dogs-datings.netlify.app/
  <br />
+ <hr>
  
 <h1> 🤝🏻 Connect with Me </h1>
 <a href="https://twitter.com/sdk_deepa">
@@ -122,3 +123,4 @@ Some of my talk videos have been uploaded in my channel. Please consider subscri
 ![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
 <br />
 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
