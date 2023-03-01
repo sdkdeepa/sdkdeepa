@@ -29,13 +29,13 @@ I love to share my knowledge to the community and here are the events I have spo
 
 <h3> Upcoming speakng engagements: </h3>
 
-1. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S"
-2. April - React Summit - 
-3. April - GDSC 
+1. April - React Summit 
+2. April - GDSC 
 
 # 2023
-1. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!"
-2. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
+1. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!" - https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s
+3. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
+4. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S" - https://www.youtube.com/watch?v=9LR6AsdpMOQ&t=479s
 
 # 2022
 1. Dec 2022 - Angular Nation - Wanna learn Angular? 
