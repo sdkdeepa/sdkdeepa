@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
-<h3> Upcoming speakng engagements: </h3>
+<h3> Upcoming speaking engagements: </h3>
 
 1. April - React Global Summit - https://events.geekle.us/react23/
 2. April - React Chicago - https://www.meetup.com/react-chicago/events/290500610/
