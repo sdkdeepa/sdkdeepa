@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <h2>🛠 Tech Stack</h2>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth | Webpack |  Saas 
+- 🌐 &nbsp; JavaScript | TypeScript | Angular| React | PWA | Node.js | Express | API | Authentication| OAuth | Webpack | Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
 - 🚓 &nbsp; Docker | Jenkins | Travis CI 
-- 🔧 &nbsp; Jest | Mocha | Chai | Jasmine
+- 🔧 &nbsp; Cypress | Jest | Mocha | Chai | Jasmine
 - 🌱 &nbsp; Python, AWS, Google Cloud
 
 <!-- - 🖥 &nbsp; -->
