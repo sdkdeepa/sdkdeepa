@@ -39,7 +39,7 @@ I love to share my knowledge to the community and here are the events I have spo
 3. May - Flutter Forward extended - https://gdg.community.dev/events/details/google-gdg-san-jose-presents-flutter-forward-extended-hybrid-event/
 4. April - Women in Firebase - Build a PWA in Flutter Web and, Deploy in Firebase! https://www.meetup.com/women-in-firebase/events/291971605/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
 5. April - React Chicago - Building beautiful UI using Storybook.js" - https://www.meetup.com/react-chicago/events/290500610/
-6. April 2023 - Building PWA using Flutter - React Global Summit - https://events.geekle.us/react23/
+6. April 2023 - Build and Deploy: React Progressive web app to Firebase - React Global Summit - https://events.geekle.us/react23/
 7. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S" - https://www.youtube.com/watch?v=9LR6AsdpMOQ&t=479s
 8. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!" - https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s
 9. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
