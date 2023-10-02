@@ -29,12 +29,11 @@ I love to share my knowledge to the community and here are the events I have spo
 
 <h3> Upcoming speaking engagements: </h3>
 
-1. October - DevFest Orlando 
-2. October - Devfest Orlando
-3. October - Vilharmosa 
-4. October - Pesto technology
-5. November - 
-
+1. October - @DevFest Orlando - Let's build an app quickly with QWIK!
+2. October - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
+3. October - Online-Vilharmosa - Building PWA using Flutter web
+4. October 28th -Online - Pesto technology - How to build a Fast & Scalable Website Using Node.js 
+   
 # 2023
 
 1. September - iJS - Is Next.js is the new React.js?
