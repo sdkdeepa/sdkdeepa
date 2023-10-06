@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 # Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
-<h2> 👩🏽‍💻 About Me </h2>
+<h2>👩🏽‍💻About Me</h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!--
 - ✍️ &nbsp; Full stack development and artist /painter as hobbies/side hustles.-->
 
-<h2>🛠 Tech Stack</h2>
+<h2>🛠Tech Stack</h2>
 
 - 🌐 &nbsp; JavaScript | TypeScript | Angular| React | PWA | Node.js | Express | API | Authentication| OAuth | Webpack | Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- - 🖥 &nbsp; -->
 <hr>
-<h1> 🎙️ Speaker at events </h1>
+<h1>🎙️Speaker at events</h1>
 
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
@@ -98,25 +98,8 @@ Some of my talk videos have been uploaded in my channel. Please consider subscri
 <h1> 🎟️ <a href="https://gdg.community.dev/gdg-san-jose/"> Organizer at Google Developer Group San Jose </a></h1> 
 I have been volunteering from 2021 in this tech community and have been organizing various tech events. Please join this tech community! 
 <hr>
-
-<h2> Projects </h2>
-
-- Github Pagination
-- Book listing - https://reactbooklist-sdkdeepa.netlify.app/
-- Notes app -  https://reactnotesapp-sdkdeepa.netlify.app/
-- Travel Planner App -  https://deepa-travplan.herokuapp.com/
-- Evaluate A News Article with Natural Language Processing - https://deepa-nlp-app.herokuapp.com/
-- Art blog - https://deepa-art-blog.netlify.app/
-- Landing page App - https://deepa-frontendprojects.netlify.app/
-- Aves App - An image uploading app for birds called "AVES APP". Implemented three tier architecture. App allows to post images after login. users can upload images, edit captions and delete their posts. https://github.com/sdkdeepa/Aves-App
-- To Do Web Application with images added to list and deployed using AWS - https://github.com/sdkdeepa/Todo-Aws-Serverless-Application
-- Let's play some drums -  https://sdkdeepa.github.io/drumming/
-- Newsletter signup application  https://shrouded-river-17694.herokuapp.com/
-- Dog Dating web site -  https://dogs-datings.netlify.app/
- <br />
- <hr>
  
-<h1> 🤝🏻 Connect with Me </h1>
+<h1>🤝🏻Connect with Me</h1>
 <a href="https://twitter.com/sdk_deepa">
   <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
