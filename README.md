@@ -32,7 +32,6 @@ I love to share my knowledge to the community and here are the events I have spo
 1. October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
 2. October 15th - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
 3. October 27th - Online-Vilharmosa - Building PWA using Flutter web
-4. October 28th -Online - Pesto technology - How to build a Fast & Scalable Website Using Node.js 
    
 # 2023
 
