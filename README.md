@@ -31,12 +31,10 @@ I love to share my knowledge to the community and here are the events I have spo
 
 
 1. October 27th - Online-Vilharmosa - Building PWA using Flutter web
-2. October 28th - Modesto
+2. October 28th - GDG Modesto - in person 
 3. November 7th - React Global Summit
-4. 
    
 # 2023
-
 1. October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
 2. October 15th - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
 3. September - iJS - Is Next.js is the new React.js?
