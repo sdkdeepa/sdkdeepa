@@ -37,7 +37,7 @@ I love to share my knowledge to the community and here are the events I have spo
    
 # 2023
 
-1.October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
+1. October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
 2. October 15th - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
 3. September - iJS - Is Next.js is the new React.js?
 4. September - JS Summit - PWA performance optimization
