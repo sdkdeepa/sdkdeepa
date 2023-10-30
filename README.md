@@ -28,28 +28,26 @@ Here are some ideas to get you started:
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
 <h3> Upcoming speaking engagements: </h3>
-
-
-1. October 27th - Online-Vilharmosa - Building PWA using Flutter web
-2. October 28th - GDG Modesto - in person 
-3. November 7th - React Global Summit
+1. November 7th - React Global Summit
    
 # 2023
-1. October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
-2. October 15th - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
-3. September - iJS - Is Next.js is the new React.js?
-4. September - JS Summit - PWA performance optimization
-5. June - How to cook Project Fugu Api's ?
-6. June - Bring your React apps to life with Animations with Pesto tech https://www.linkedin.com/feed/update/urn:li:activity:7076929717806800896?utm_source=share&utm_medium=member_desktop
-7. June -  Flutter PWA - Meetup at hacker dojo Sunnyvale.
-8. May - Build an app with three in one - Flutter, PWA and Firebase - https://gdg.community.dev/events/details/google-gdg-waterloo-presents-build-and-deploy-flutter-pwa-to-firebase/
-9. May - Flutter Forward extended - https://gdg.community.dev/events/details/google-gdg-san-jose-presents-flutter-forward-extended-hybrid-event/
-10. April - Women in Firebase - Build a PWA in Flutter Web and, Deploy in Firebase! https://www.meetup.com/women-in-firebase/events/291971605/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
-11. April - React Chicago - Building beautiful UI using Storybook.js" - https://www.meetup.com/react-chicago/events/290500610/
-12. April 2023 - Build and Deploy: React Progressive web app to Firebase - React Global Summit - https://events.geekle.us/react23/
-13. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S" - https://www.youtube.com/watch?v=9LR6AsdpMOQ&t=479s
-14. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!" - https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s
-15. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
+1. October 27th - Online-Vilharmosa - Building PWA using Flutter web
+2. October 28th - GDG Modesto - in person 
+3. October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
+4. October 15th - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
+5. September - iJS - Is Next.js is the new React.js?
+6. September - JS Summit - PWA performance optimization
+7. June - How to cook Project Fugu Api's ?
+8. June - Bring your React apps to life with Animations with Pesto tech https://www.linkedin.com/feed/update/urn:li:activity:7076929717806800896?utm_source=share&utm_medium=member_desktop
+9. June -  Flutter PWA - Meetup at hacker dojo Sunnyvale.
+10. May - Build an app with three in one - Flutter, PWA and Firebase - https://gdg.community.dev/events/details/google-gdg-waterloo-presents-build-and-deploy-flutter-pwa-to-firebase/
+11. May - Flutter Forward extended - https://gdg.community.dev/events/details/google-gdg-san-jose-presents-flutter-forward-extended-hybrid-event/
+12. April - Women in Firebase - Build a PWA in Flutter Web and, Deploy in Firebase! https://www.meetup.com/women-in-firebase/events/291971605/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+13. April - React Chicago - Building beautiful UI using Storybook.js" - https://www.meetup.com/react-chicago/events/290500610/
+14. April 2023 - Build and Deploy: React Progressive web app to Firebase - React Global Summit - https://events.geekle.us/react23/
+15. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S" - https://www.youtube.com/watch?v=9LR6AsdpMOQ&t=479s
+16. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!" - https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s
+17. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
 
 # 2022
 1. Dec 2022 - Angular Nation - Wanna learn Angular? 
