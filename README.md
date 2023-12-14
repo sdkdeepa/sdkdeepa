@@ -2,12 +2,11 @@
 **sdkdeepa/Deepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-# Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/) 
+# Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/), Google Developer Expert - Web Technologies
 <h2>👩🏽‍💻About Me</h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
-- 🎓 &nbsp; Self taught full stack web developer
 - 👫👩🏻‍🤝‍👩🏽👱🏽👨🏻‍🦱👩🏻🧑🏽‍🦱👩🏾‍🦱 - Community builder
 
 <!--
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 
 <h2>🛠Tech Stack</h2>
 
-- 🌐 &nbsp; JavaScript | TypeScript | Angular| React | PWA | Node.js | Express | API | Authentication| OAuth | Webpack | Saas 
+- 🌐 &nbsp; JavaScript | TypeScript | React | Angular| PWA | Node.js | Express | API | Authentication| OAuth | Webpack | Saas 
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
 - 🚓 &nbsp; Docker | Jenkins | Travis CI 
 - 🔧 &nbsp; Cypress | Jest | Mocha | Chai | Jasmine
