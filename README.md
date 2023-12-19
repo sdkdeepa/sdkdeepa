@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
 <h3> Upcoming speaking engagements: </h3>
-1. December - DevFest
-2. TBD
    
 # 2023
 1. November 7th - React Global Summit
