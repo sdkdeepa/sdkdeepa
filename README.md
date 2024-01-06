@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 # Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/), Google Developer Expert - Web Technologies
-<h2>👩🏽‍💻About Me</h2>
+<h2>👩🏽‍💻 About Me</h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
 - 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- - 🖥 &nbsp; -->
 <hr>
-<h1>🎙️Speaker at events</h1>
+<h1>🎙️ Speaker at events</h1>
 
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
