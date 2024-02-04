@@ -27,25 +27,32 @@ Here are some ideas to get you started:
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
 
 <h3> Upcoming speaking engagements: </h3>
+
+
+# 2024
+1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
+2. Feburary in person - [Building Tomorrow: Exploring Flutter and PWA](https://www.tracydevs.com/2024/02/building-tomorrow-exploring-flutter-pwa/)
+
+
    
 # 2023
-1. November 7th - React Global Summit
-2. October 27th - Online-Vilharmosa - Building PWA using Flutter web
+1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
+2. October 27th - Online-Vilharmosa - [Building PWA using Flutter web](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa)
 3. October 28th - GDG Modesto - in person 
-4. October 15th - @DevFest Orlando - Let's build an app quickly with QWIK!
-5. October 15th - @Devfest Orlando - Build and Deploy React progressive web app to Firebase
+4. October 15th - @DevFest Orlando - [Let's build an app quickly with QWIK!](https://orlando.devfestflorida.com/speakers)
+5. October 15th - @Devfest Orlando - [Build and Deploy React progressive web app to Firebase](https://orlando.devfestflorida.com/speakers)
 6. September - iJS - Is Next.js is the new React.js?
 7. September - JS Summit - PWA performance optimization
 8. June - How to cook Project Fugu Api's ?
-9. June - Bring your React apps to life with Animations with Pesto tech https://www.linkedin.com/feed/update/urn:li:activity:7076929717806800896?utm_source=share&utm_medium=member_desktop
+9. June - [Bring your React apps to life with Animations](https://www.linkedin.com/feed/update/urn:li:activity:7076929717806800896?utm_source=share&utm_medium=member_desktop) with Pesto tech
 10. June -  Flutter PWA - Meetup at hacker dojo Sunnyvale.
-11. May - Build an app with three in one - Flutter, PWA and Firebase - https://gdg.community.dev/events/details/google-gdg-waterloo-presents-build-and-deploy-flutter-pwa-to-firebase/
-12. May - Flutter Forward extended - https://gdg.community.dev/events/details/google-gdg-san-jose-presents-flutter-forward-extended-hybrid-event/
-13. April - Women in Firebase - Build a PWA in Flutter Web and, Deploy in Firebase! https://www.meetup.com/women-in-firebase/events/291971605/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
-14. April - React Chicago - Building beautiful UI using Storybook.js" - https://www.meetup.com/react-chicago/events/290500610/
-15. April 2023 - Build and Deploy: React Progressive web app to Firebase - React Global Summit - https://events.geekle.us/react23/
-16. Feb 2023 - Angular Summit - "Power up your Angular app with PWA'S" - https://www.youtube.com/watch?v=9LR6AsdpMOQ&t=479s
-17. Jan 2023 - Node.js Summit - "The power of two technologies - Node.js and PWA!" - https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s
+11. May - [Build an app with three in one - Flutter, PWA and Firebase](https://gdg.community.dev/events/details/google-gdg-waterloo-presents-build-and-deploy-flutter-pwa-to-firebase/)
+12. May - [Flutter Forward extended](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-flutter-forward-extended-hybrid-event/)
+13. April - [Women in Firebase - Build a PWA in Flutter Web and, Deploy in Firebase!](https://www.meetup.com/women-in-firebase/events/291971605/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+14. April - React Chicago - [Building beautiful UI using Storybook.js](https://www.meetup.com/react-chicago/events/290500610/)
+15. April 2023 - [Build and Deploy: React Progressive web app to Firebase](https://events.geekle.us/react23/) React Global Summit 
+16. Feb 2023 - Angular Summit - [Power up your Angular app with PWA'S](https://www.youtube.com/watch?v=9LR6AsdpMOQ&t=479s)
+17. Jan 2023 - Node.js Summit - [The power of two technologies - Node.js and PWA!](https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s)
 18. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
 
 # 2022
