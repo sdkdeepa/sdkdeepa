@@ -1,41 +1,59 @@
-<!--
-**sdkdeepa/Deepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-# Hi 👋🏽, I'm [Deepa](https://www.deepasubramanian.dev/), Google Developer Expert - Web Technologies
+### Hi there! 👋 
+### Welcome to my Github
+---- 
 <h2>👩🏽‍💻 About Me</h2>
+I am passionate about teaching, learning and giving back to the community. Previously, I have worked at Adobe, Google, Apple, Microsoft etc. 
 
-- 🤩 &nbsp; I love exploring new technologies particularly web and cloud technologies
-- 👩🏻‍🏫 &nbsp; Love sharing my knowledge with others
-- 👫👩🏻‍🤝‍👩🏽👱🏽👨🏻‍🦱👩🏻🧑🏽‍🦱👩🏾‍🦱 - Community builder
+  [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
+
+#### Let's keep in touch!
+<a href="https://twitter.com/sdk_deepa">
+  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sdkdeepa/">
+  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/@sdkdeepa/">
+  <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
 
 <!--
 - ✍️ &nbsp; Full stack development and artist /painter as hobbies/side hustles.-->
 
-<h2>🛠Tech Stack</h2>
+----
 
-- 🌐 &nbsp; JavaScript | TypeScript | React | Angular| PWA | Node.js | Express | API | Authentication| OAuth | Webpack | Saas 
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
-- 🚓 &nbsp; Docker | Jenkins | Travis CI 
-- 🔧 &nbsp; Cypress | Jest | Mocha | Chai | Jasmine
-- 🌱 &nbsp; Python, AWS, Google Cloud
+#### Huge fan of
 
-<!-- - 🖥 &nbsp; -->
-<hr>
-<h1>🎙️ Speaker at events</h1>
+![ReactJS](https://img.shields.io/badge/react-%23DD0031.svg?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### I want to learn more
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+----
+#### I love to share my knowledge
 
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
-
 <h3> Upcoming speaking engagements: </h3>
 
-
-# 2024
+#### 2024
 1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
 2. Feburary in person - [Building Tomorrow: Exploring Flutter and PWA](https://www.tracydevs.com/2024/02/building-tomorrow-exploring-flutter-pwa/)
-
-
+3. iJS San Diego
    
-# 2023
+#### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
 2. October 27th - Online-Vilharmosa - [Building PWA using Flutter web](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa)
 3. October 28th - GDG Modesto - in person 
@@ -55,7 +73,7 @@ I love to share my knowledge to the community and here are the events I have spo
 17. Jan 2023 - Node.js Summit - [The power of two technologies - Node.js and PWA!](https://www.youtube.com/watch?v=kNU-nOKrjG8&t=253s)
 18. Jan 2023 - GDSC McMasters Univeristy - My journey to tech
 
-# 2022
+#### 2022
 1. Dec 2022 - Angular Nation - Wanna learn Angular? 
 2. November 2022 - React Global Summit. Event link: https://events.geekle.us/react3/
 3. October 2022 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/286559765/)-Overview of PWA
@@ -80,7 +98,7 @@ I love to share my knowledge to the community and here are the events I have spo
     - Creational design pattern in JavaScript 
 15. Google NAConnect - Shared about my first in person conference experience.(https://www.linkedin.com/feed/update/urn:li:activity:6994864533383106560/)
 
-# 2021
+#### 2021
 
 1. Dec 2021 - [Fundamental JS](https://www.meetup.com/sandiegojs/events/whwkqsyccqbdc/) 
    - Getting started with more JavaScript with essential ES6 features 
@@ -90,32 +108,9 @@ I love to share my knowledge to the community and here are the events I have spo
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
 4. August 10, 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
-<hr>
+    - 
+----
 
-<h1> ✍🏽 Blogger at <a href="https://medium.com/@sdkdeepa">Medium</a> </h1>
- Started blogging on PWA, Project Fugu, Chromium browser, JavaScript Series on Data structures, TypeScript 101, Puppeteer chrome automation tool etc.
-<br />
-<hr>
-<h1> 🎥 <a href="https://www.youtube.com/channel/UCGSlhV99QVNdxmaI6obNz9Q/"> YouTube Channel</a></h1> 
-Some of my talk videos have been uploaded in my channel. Please consider subscribing! 
-<hr>
 
-<h1> 🎟️ <a href="https://gdg.community.dev/gdg-san-jose/"> Organizer at Google Developer Group San Jose </a></h1> 
-I have been volunteering from 2021 in this tech community and have been organizing various tech events. Please join this tech community! 
-<hr>
- 
-<h1>🤝🏻Connect with Me</h1>
-<a href="https://twitter.com/sdk_deepa">
-  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sdkdeepa/">
-  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/@sdkdeepa/">
-  <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
-<br />
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
