@@ -1,3 +1,5 @@
+[![Deepa Subramanian - Developer, community builder, relentless learner](assets/gh_header.gif)](https://deepasubramanian.dev)
+
 ### Hi there! 👋 
 ### Welcome to my Github
 ---- 
