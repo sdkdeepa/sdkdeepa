@@ -4,9 +4,12 @@
 ### Welcome to my Github
 ---- 
 <h2>👩🏽‍💻 About Me</h2>
+
 I am passionate about teaching, learning and giving back to the community. Previously, I have worked at Adobe, Google, Apple, Microsoft etc. 
 
-  [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
+
+----
 
 #### Let's keep in touch!
 <a href="https://twitter.com/sdk_deepa">
@@ -22,8 +25,7 @@ I am passionate about teaching, learning and giving back to the community. Previ
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
 
 ----
-
-#### Huge fan of
+<h2>Huge fan of</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,10 +43,12 @@ I am passionate about teaching, learning and giving back to the community. Previ
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ----
+
 #### I love to share my knowledge
 
 I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
-<h3> Upcoming speaking engagements: </h3>
+
+<h3>Upcoming speaking engagements</h3>
 
 #### 2024
 1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
