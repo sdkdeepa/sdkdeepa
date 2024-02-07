@@ -9,6 +9,8 @@ I am passionate about teaching, learning and giving back to the community. Previ
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsdkdeepa&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
+
 ----
 
 #### Let's keep in touch!
@@ -21,8 +23,6 @@ I am passionate about teaching, learning and giving back to the community. Previ
 <a href="https://www.youtube.com/@sdkdeepa/">
   <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
 
 ----
 <h2>Huge fan of</h2>
@@ -113,7 +113,11 @@ I love to share my knowledge to the community and here are the events I have spo
    
 ----
 
-![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
+<img src="https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa" alt="visitor badge"/>
+
+
+
+
 
 
 
