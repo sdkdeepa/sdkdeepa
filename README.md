@@ -2,30 +2,18 @@
 
 ### Hi there! 👋 
 ### Welcome to my Github
----- 
-<h2>👩🏽‍💻 About Me</h2>
 
-I am passionate about teaching, learning and giving back to the community. Previously, I have worked at Adobe, Google, Apple, Microsoft etc. 
+---- 
+#### 👩🏽‍💻 About Me
+
+I am passionate about coding, teaching,learning and giving back to the community. Previously, I have worked at Adobe, Google, Apple, Microsoft etc. 
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true)](https://github.com/sdkdeepa)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsdkdeepa&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
 
-----
-
-#### Let's keep in touch!
-<a href="https://twitter.com/sdk_deepa">
-  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sdkdeepa/">
-  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/@sdkdeepa/">
-  <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-----
-<h2>Huge fan of</h2>
+---- 
+#### Huge fan of
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -112,7 +100,16 @@ I love to share my knowledge to the community and here are the events I have spo
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M   
 ----
 
-
+#### Let's keep in touch!
+<a href="https://twitter.com/sdk_deepa">
+  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sdkdeepa/">
+  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/@sdkdeepa/">
+  <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 
 
