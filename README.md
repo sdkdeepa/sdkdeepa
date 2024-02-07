@@ -109,11 +109,8 @@ I love to share my knowledge to the community and here are the events I have spo
 3. Dec 2021 - Woman Who Code Frontend 
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
 4. August 10, 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
-    - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
-   
+    - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M   
 ----
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa" alt="visitor badge"/>
 
 
 
