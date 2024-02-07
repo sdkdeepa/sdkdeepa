@@ -1,7 +1,7 @@
 [![Deepa Subramanian - Developer, community builder, relentless learner](assets/github.gif)](https://deepasubramanian.dev)
 
 ### Hi there! 👋 
-### Welcome to my Github
+### Welcome to my GitHub
 
 ---- 
 #### 👩🏽‍💻 About Me
