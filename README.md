@@ -19,17 +19,13 @@ I am passionate about teaching, learning and giving back to the community. Previ
   <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
-
-<!--
-- ✍️ &nbsp; Full stack development and artist /painter as hobbies/side hustles.-->
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
 
 ----
 
 #### Huge fan of
 
-![ReactJS](https://img.shields.io/badge/react-%23DD0031.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -110,8 +106,10 @@ I love to share my knowledge to the community and here are the events I have spo
     - Introduction to React - https://www.youtube.com/watch?v=CHxbN4tGPT4
 4. August 10, 2021 - [Angular KC](https://www.meetup.com/angularkc/events/279845252/)
     - Getting started with Angular and Firebase - https://www.youtube.com/watch?v=P-BnODS016M
-    - 
+   
 ----
+
+![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa)
 
 
 
