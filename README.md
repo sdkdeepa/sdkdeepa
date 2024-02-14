@@ -34,7 +34,7 @@ I am passionate about coding, teaching,learning and giving back to the community
 
 #### I love to share my knowledge
 
-I love to share my knowledge to the community and here are the events I have spoken at virtual meetups and global conferences.
+I love to share my knowledge to the community and here are the events I have spoken at meetsup and conferences (in-person and virtual).
 
 <h3>Upcoming speaking engagements</h3>
 
