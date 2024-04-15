@@ -41,7 +41,14 @@ I love to share my knowledge to the community and here are the events I have spo
 #### 2024
 1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
 2. Feburary in person - [Building Tomorrow: Exploring Flutter and PWA](https://www.tracydevs.com/2024/02/building-tomorrow-exploring-flutter-pwa/)
-3. iJS San Diego
+3. April - Google Cloud Next - Panel Speaker. 
+4. May - iJS San Diego
+5. June
+6. July
+7. August
+8. September
+9. October - React Workshop
+ 
    
 #### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
