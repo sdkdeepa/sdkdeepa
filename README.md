@@ -13,7 +13,7 @@ I am passionate about coding, teaching, learning and giving back to the communit
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsdkdeepa&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
 
 ---- 
-#### Huge fan of
+#### Favorite tech 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,14 +42,16 @@ I love to share my knowledge to the community and here are the events I have spo
 1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
 2. Feburary in person - [Building Tomorrow: Exploring Flutter and PWA](https://www.tracydevs.com/2024/02/building-tomorrow-exploring-flutter-pwa/)
 3. April - Google Cloud Next - Panel Speaker
-4. May - iJS San Diego, Geekle React Summit, SheWorks
-5. June
-6. July
-7. August
-8. September
-9. October - React Workshop
- 
-   
+5. May - iJS San Diego [Building Intelligent UIs with React and AI](https://javascript-conference.com/react/intelligent-ui-react-ai/)
+6. May - iJS San Diego [Don't Bug Out! Automate Testing with Puppeteer and Cypress](https://javascript-conference.com/javascript-practices-tools/automate-testing-with-puppeteer-cypress/)
+7. May - iJS San Diego [Building Scalable UIs with Component Driven Microfrontends](https://javascript-conference.com/react/scalable-uis-component-driven-microfrontends/)
+8. May - Geekle React Summit](https://events.geekle.us/react24/)
+9. May - [SheWorks Menstural Health Summit](https://www.eventbrite.com/e/sheworks-period-check-menstrual-health-summit-tickets-860091004347?aff=ebdsoporgprofile)   
+10. June - 
+11. July
+12. August
+13. September
+14. October - React Workshop
 #### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
 2. October 27th - Online-Vilharmosa - [Building PWA using Flutter web](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa)
