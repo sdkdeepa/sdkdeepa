@@ -46,12 +46,10 @@ I love to share my knowledge to the community and here are the events I have spo
 6. May - iJS San Diego [Don't Bug Out! Automate Testing with Puppeteer and Cypress](https://javascript-conference.com/javascript-practices-tools/automate-testing-with-puppeteer-cypress/)
 7. May - iJS San Diego [Building Scalable UIs with Component Driven Microfrontends](https://javascript-conference.com/react/scalable-uis-component-driven-microfrontends/)
 8. May - Geekle React Summit](https://events.geekle.us/react24/)
-9. May - [SheWorks Menstural Health Summit](https://www.eventbrite.com/e/sheworks-period-check-menstrual-health-summit-tickets-860091004347?aff=ebdsoporgprofile)   
-10. June - 
-11. July
-12. August
-13. September
-14. October - React Workshop
+9. May - [SheWorks Menstural Health Summit](https://www.eventbrite.com/e/sheworks-period-check-menstrual-health-summit-tickets-860091004347?aff=ebdsoporgprofile)
+10. September - JavaScript Summit
+11. October - Cypress Conference 2024
+12. October - iJS New York
 #### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
 2. October 27th - Online-Vilharmosa - [Building PWA using Flutter web](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa)
