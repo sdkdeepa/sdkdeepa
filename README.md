@@ -47,7 +47,7 @@ I love to share my knowledge to the community and here are the events I have spo
 7. May - iJS San Diego [Building Scalable UIs with Component Driven Microfrontends](https://javascript-conference.com/react/scalable-uis-component-driven-microfrontends/)
 8. May - Geekle React Summit](https://events.geekle.us/react24/)
 9. May - [SheWorks Menstural Health Summit](https://www.eventbrite.com/e/sheworks-period-check-menstrual-health-summit-tickets-860091004347?aff=ebdsoporgprofile)
-10. September - JavaScript Summit
+10. September - [JavaScript Summit](https://geekle.us/schedule/javascript24)
 11. October - [GDG Aquaba](https://gdg.community.dev/events/details/google-gdg-aqaba-presents-unlocking-angular-and-ai-a-match-made-in-code-devfest/)
 12. October - iJS New York
 13. October - Cypress Conference 2024
