@@ -50,11 +50,10 @@ I love to share my knowledge to the community and here are the events I have spo
 10. September - [JavaScript Summit](https://geekle.us/schedule/javascript24)
 11. October - [GDG Aquaba](https://gdg.community.dev/events/details/google-gdg-aqaba-presents-unlocking-angular-and-ai-a-match-made-in-code-devfest/)
 12. October - iJS New York
-13. October - Cypress Conference 2024
-14. Novemeber - TBD YouTube live stream 
+13. Novemeber - TBD YouTube live stream 
+14. November - TBD (Albany new york)
 15. November - TBD (Albany new york)
-16. November - TBD (Albany new york)
-17. React Summit - TBD (December)
+
 #### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
 2. October 27th - Online-Vilharmosa - [Building PWA using Flutter web](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2023-tabasco/cohost-gdg-villahermosa)
