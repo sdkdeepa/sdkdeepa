@@ -51,9 +51,10 @@ I love to share my knowledge to the community and here are the events I have spo
 11. October - [GDG Aquaba](https://gdg.community.dev/events/details/google-gdg-aqaba-presents-unlocking-angular-and-ai-a-match-made-in-code-devfest/)
 12. October - iJS New York
 13. October - GDG Silicon Valley - Panel Speaker
-14. November - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
-15. November - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
-16. November - [QA Global Summit](https://events.geekle.us/qa/)
+14. November 14th - As a Mentor at AnitaB.org Speed mentoring event at Santa Clara
+15. November 16th - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
+16. November 16th - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
+17. November 25th - [QA Global Summit](https://events.geekle.us/qa/)
 
 #### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
