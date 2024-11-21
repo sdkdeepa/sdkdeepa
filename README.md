@@ -38,6 +38,11 @@ I love to share my knowledge to the community and here are the events I have spo
 
 <h3>Upcoming speaking engagements</h3>
 
+#### 2025
+
+1. January - [QA Global Summit](https://events.geekle.us/qa/)
+2. Feburary - React Summit
+
 #### 2024
 1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
 2. Feburary in person - [Building Tomorrow: Exploring Flutter and PWA](https://www.tracydevs.com/2024/02/building-tomorrow-exploring-flutter-pwa/)
@@ -54,7 +59,8 @@ I love to share my knowledge to the community and here are the events I have spo
 14. November 14th - As a Mentor at AnitaB.org Speed mentoring event at Santa Clara
 15. November 16th - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
 16. November 16th - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
-17. November 25th - [QA Global Summit](https://events.geekle.us/qa/)
+17. Novemeber 16th - Women in Tecg - Panel Speaker
+18. December - Angular Workshop (GDG Aquaba)
 
 #### 2023
 1. November 7th - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
