@@ -33,7 +33,6 @@ I am passionate about coding, teaching, learning and giving back to the communit
 ----
 
 #### I love to share my knowledge
-
 I love to share my knowledge to the community and here are the events I have spoken at meetsup and conferences (in-person and virtual).
 
 <h3>Upcoming speaking engagements</h3>
@@ -41,7 +40,7 @@ I love to share my knowledge to the community and here are the events I have spo
 #### 2025
 
 1. January - [QA Global Summit](https://events.geekle.us/qa/)
-2. Feburary - React Summit
+2. Feburary - 
 
 #### 2024
 1. January Online - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
@@ -129,9 +128,3 @@ I love to share my knowledge to the community and here are the events I have spo
 <a href="https://www.youtube.com/@sdkdeepa/">
   <img align="left" alt="Deepa's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-
-
-
-
-
