@@ -39,11 +39,13 @@ I love to share my knowledge to the community and here are the events I have spo
 
 #### 2025
 
-1. Jan - [QA Global Summit](https://events.geekle.us/qa/)
-2. Feb - React Suspense
-3. March - Guest Speaker - Talk on AI
-4. May - iJS - Web AI
-5. May - iJS - Three.js
+<ol>
+                <li class="event">Jan - QA Global Summit - What Cypress can't cy.pupeteer() can!</li>
+                <li class="event">Feb - React Suspense </li>
+                <li class="event">March - Guest Speaker - Talk on AI </li>
+                <li class="event">May - iJS - Web AI </li>
+                <li class="event">May - iJS - Three.js</li>
+            </ol>
 
 #### 2024
 1. Jan - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
