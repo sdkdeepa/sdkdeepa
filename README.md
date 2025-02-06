@@ -56,13 +56,13 @@ I love to share my knowledge to the community and here are the events I have spo
 9. May - [SheWorks Menstural Health Summit](https://www.eventbrite.com/e/sheworks-period-check-menstrual-health-summit-tickets-860091004347?aff=ebdsoporgprofile)
 10. Sep - [JavaScript Summit](https://geekle.us/schedule/javascript24)
 11. Oct- [GDG Aquaba](https://gdg.community.dev/events/details/google-gdg-aqaba-presents-unlocking-angular-and-ai-a-match-made-in-code-devfest/)
-12. Oct - iJS New York
+12. Oct - International JavaScript New York - Building Scalable UIs with Component-Driven Micro-Frontends- Don't Bug Out! Automate Testing with Puppeteer & Cypress
 13. Oct - GDG Silicon Valley - Panel Speaker
 14. Nov - As a Mentor at AnitaB.org Speed mentoring event at Santa Clara
 15. Nov - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
 16. Nov - https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-2024-troy-ny/
 17. Nov - Women in Tech - Panel Speaker @ GDG Troy, NY
-18. Dec - Angular Workshop (GDG Aquaba)
+18. Dec - GDG Aquaba - Build AngGem Chatbot
 
 #### 2023
 1. Nov - React Global Summit ["Build React app with Qwik!"](https://events.geekle.us/react24/)
