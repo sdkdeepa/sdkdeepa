@@ -41,11 +41,12 @@ I love to share my knowledge to the community and here are the events I have spo
 
 <ol>
                 <li class="event">Jan - QA Global Summit - What Cypress can't cy.pupeteer() can!</li>
-                <li class="event">Feb - React Suspense </li>
-                <li class="event">March - Guest Speaker - Talk on AI </li>
-                <li class="event">May - iJS - Web AI </li>
-                <li class="event">May - iJS - Three.js</li>
-            </ol>
+                <li class="event">March - Flutter Event - Flutter and Claude AI - What's cooking? </li>
+                <li class="event">April - NA Summit: Las Vegas - Community related talk </li>
+                <li class="event">March - Women in Firebase - Web AI specific </li>
+                <li class="event">May - iJS - Web AI != cloud AI </li>
+                <li class="event">May - iJS - React animation - Framer motion, Green sock and Three.js </li>
+</ol>
 
 #### 2024
 1. Jan - [Fluttering into the Future: A Beginner's Guide to App Development](https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-fluttering-into-the-future-a-beginners-guide-to-app-development/)
