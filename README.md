@@ -46,6 +46,8 @@ I love to share my knowledge to the community and here are the events I have spo
                 <li class="event">March - Women in Firebase - Web AI specific </li>
                 <li class="event">May - iJS - Web AI != cloud AI </li>
                 <li class="event">May - iJS - React animation - Framer motion, Green sock and Three.js </li>
+                <li class="event">June - GDG Providence - ADK for Startup Founders </li>
+    
 </ol>
 
 #### 2024
