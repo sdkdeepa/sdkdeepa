@@ -12,8 +12,7 @@ Subscribe to my newsletter: https://www.linkedin.com/newsletters/ai-architecture
 
 ---- 
 
-
-![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true&theme=buefy)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sdkdeepa&show_icons=true&theme=radical&hide_border=true)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsdkdeepa&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
 
