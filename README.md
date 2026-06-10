@@ -8,7 +8,9 @@ I am an Engineering leader passionate about Software platform architecture and A
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/sdkdeepa/) and 
 
-Subscribe to my newsletter: https://www.linkedin.com/newsletters/ai-architecture-weekly-7429772103693783041/
+Subscribe to my Technical Writings:
+- Newsletter for Engineering leaders: [AI Architecture Weekly](https://bit.ly/aiarchitectureweekly) 
+- Blogs for Senior Software engineers: [Coding Blogs](https://medium.com/@sdkdeepa) 
 
 ---- 
 
