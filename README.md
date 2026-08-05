@@ -4,7 +4,7 @@
 ---- 
 #### 👩🏽‍💻 About Me
 
-I am an Engineering passionate about Software platform architecture and AI. I love mentoring and helping professionals in their early and mid career. I am on a continuous learning and improvement mode. 
+I am an experienced Engineer passionate about Software platform architecture and AI. I love sharing my knowledge. I am on a continuous learning and improvement mode. 
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/sdkdeepa/) and 
 
