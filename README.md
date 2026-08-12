@@ -10,11 +10,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/sdkdeepa/) and
 
 Subscribe to my Technical Writings:
 - AI Newsletter: [AI Architecture Weekly](https://bit.ly/aiarchitectureweekly) 
-- Blogs for Software engineers: [Coding Blogs](https://medium.com/@sdkdeepa) 
+- Blogs for Software engineers: [Coding Blogs](https://medium.com/@sdkdeepa)
 
----- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdkdeepa&show_icons=true&theme=radical&hide_border=true)
 
-<br/>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsdkdeepa&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
-
