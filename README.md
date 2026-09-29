@@ -10,7 +10,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/sdkdeepa/) and
 
 Subscribe to my Technical Writings:
 - AI Newsletter: [AI Architecture Weekly](https://bit.ly/aiarchitectureweekly) 
-- Blogs for Software engineers: [Coding Blogs](https://medium.com/@sdkdeepa)
+- Blogs: [Coding Blogs](https://medium.com/@sdkdeepa)
 
 ![sdkdeepa's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=sdkdeepa&show_icons=true&theme=radical&hide_border=true)
 
