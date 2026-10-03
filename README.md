@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Deepa, a software engineer building AI agents and evals. I build AI side projects for fun and learn in public. ☕🎨
+I'm Deepa, an engineer building AI agents and evals. I build AI side projects for fun and learn in public. ☕🎨
 
 #### 🛠️ What I have been building...
 
