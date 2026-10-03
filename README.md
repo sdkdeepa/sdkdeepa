@@ -2,8 +2,9 @@
 
 I'm Deepa, a software engineer building AI agents and evals. I build AI side projects for fun and learn in public. ☕🎨
 
-#### 🛠️ Side projects ...
+#### 🛠️ What I have been building...
 
+- **[New project](https://github.com/sdkdeepa)**: COMING SOON ...
 - **[AI Quality Gate](https://github.com/sdkdeepa/ai-quality-gate)**: regression gate for RAG systems, scoring retrieval, groundedness, and relevancy against a versioned golden dataset in CI
 - **[AI Test Intelligence Platform](https://github.com/sdkdeepa/ai-test-intelligence-platform)**: AI-assisted test generation, failure-log analysis, and risk triage with human approval gates
 - **[JeolAI](https://github.com/sdkdeepa/jeolAI)**: AI shopping agent built to spend wisely, with model routing, human approval gates, and cost budgets
@@ -11,7 +12,7 @@ I'm Deepa, a software engineer building AI agents and evals. I build AI side pro
 - **[Currency Agent](https://github.com/sdkdeepa/currency-agent)**: MCP, ADK, and A2A on Cloud Run
 - **[YouTube Summarizer](https://github.com/sdkdeepa/youtube-summarizer)**: video summaries with Gemini
 
-#### ✍️  ...
+#### ✍️  Where I write...
 
 - AI newsletter: [AI Architecture Weekly](https://bit.ly/aiarchitectureweekly)
 - Blog: [Medium](https://medium.com/@sdkdeepa)
