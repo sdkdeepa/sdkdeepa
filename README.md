@@ -12,7 +12,6 @@ I'm Deepa, an engineer building AI agents and evals. I build AI side projects fo
 - **[Multi-Agent Code Review Pipeline using Claude and OpenAI](https://github.com/sdkdeepa/multiagent-code-review-pipeline)**: Production-grade code review using sequential agent orchestration with context compression.
 - **[Currency Agent](https://github.com/sdkdeepa/currency-agent)**: MCP, ADK, and A2A on Cloud Run
 - **[YouTube Summarizer](https://github.com/sdkdeepa/youtube-summarizer)**: YouTube video summaries with Gemini
-- **[Necessary tool for Developer Communities and DevRels](https://github.com/sdkdeepa/steplab)**: Fun tool created for developer advocates/ DevRel's for creating easy and engaging workshops!😄
 
 #### ✍️  Where I write...
 
